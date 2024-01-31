@@ -1,4 +1,5 @@
 # Nyc_taxi_trip_durationmodels
+![name-of-you-image](https://www.banterist.com/images/nyc-taxi-logo.jpg)
 Building Basic Predictive Models Over the NYC Taxi Trip dataset
 NYC Taxi Trip Duration Prediction
 
