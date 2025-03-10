@@ -1,5 +1,5 @@
 # Nyc_taxi_trip_durationmodels
-![name-of-you-image](https://www.banterist.com/images/nyc-taxi-logo.jpg)
+[https://static01.nyt.com/images/2007/10/18/nyregion/taxi600.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nytimes.com%2F2007%2F10%2F18%2Fnyregion%2F18taxis.html&psig=AOvVaw1ADs83AHraCQpXuIiilP3q&ust=1741661623791000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLD28LPB_osDFQAAAAAdAAAAABAy)
 
 Building Basic Predictive Models Over the NYC Taxi Trip dataset
 NYC Taxi Trip Duration Prediction
